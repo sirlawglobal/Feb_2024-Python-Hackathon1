@@ -44,7 +44,5 @@ num_terms = int(input("Enter the number of terms: "))
 fibonacci_sequence = fibonacci(num_terms)
 
 
-
-
 # Print the Fibonacci sequence
 print(fibonacci_sequence)
